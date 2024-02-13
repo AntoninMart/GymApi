@@ -1,0 +1,62 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id      Int       @id @default(autoincrement())
+  pseudo  String    @unique
+  seances Seances[]
+}
+
+model Seances {
+  id           Int              @id @default(autoincrement())
+  nom          String
+  userId       Int
+  user         User             @relation(fields: [userId], references: [id])
+  exercices    SeanceExercice[]
+  histoSeances HistoSeance[]
+}
+
+model Exercices {
+  id                 Int              @id @default(autoincrement())
+  nom                String
+  image              String
+  description        String
+  groupeMusculaireId Int
+  groupeMusculaire   GroupeMusculaire @relation(fields: [groupeMusculaireId], references: [id])
+  seances            SeanceExercice[]
+}
+
+model SeanceExercice {
+  exercicesId Int
+  seancesId   Int
+  nbSerie     Int
+  exercice    Exercices @relation(fields: [exercicesId], references: [id])
+  seance      Seances   @relation(fields: [seancesId], references: [id])
+
+  @@id([exercicesId, seancesId])
+}
+
+model GroupeMusculaire {
+  id        Int         @id @default(autoincrement())
+  nom       String
+  exercices Exercices[]
+}
+
+model HistoSeance {
+  id          Int      @id @default(autoincrement())
+  date        DateTime
+  repetitions Int
+  poids       Float
+  commentaire String
+  seanceId    Int
+  seance      Seances  @relation(fields: [seanceId], references: [id])
+}

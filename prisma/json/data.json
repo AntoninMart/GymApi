@@ -1,0 +1,866 @@
+[
+    {
+        "nom": "Développé couché à la barre",
+        "image":"Développé couché à la barre.webp",
+        "desc":"Exercice pour pectoraux, triceps et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Développé incliné avec haltères",
+        "image":"Développé incliné avec haltères.webp",
+        "desc":"Exercice pour pectoraux, triceps et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Le Peck Deck",
+        "image":"Le Peck Deck.webp",
+        "desc":"Exercice pour pectoraux et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Écartés aux poulies hautes pour pectoraux",
+        "image":"Écartés aux poulies hautes pour pectoraux.webp",
+        "desc":"Exercice pour pectoraux et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Développé incliné à la barre",
+        "image":"Développé incliné à la barre.webp",
+        "desc":"Exercice pour pectoraux et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Développé couché avec haltères",
+        "image":"Développé couché avec haltères.webp",
+        "desc":"Exercice pour pectoraux et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Écartés couché avec haltères",
+        "image":"Écartés couché avec haltères.webp",
+        "desc":"Exercice pour pectoraux et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Écartés incliné avec haltères",
+        "image":"Écartés incliné avec haltères.webp",
+        "desc":"Exercice pour pectoraux et deltoïdes antérieurs",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Presse à pectoraux",
+        "image":"Presse à pectoraux.webp",
+        "desc":"Exercice pour pectoraux, deltoïdes antérieurs et triceps",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Développé décliné à la barre",
+        "image":"Développé décliné à la barre.webp",
+        "desc":"Exercice pour pectoraux (partie basse), deltoïdes antérieurs et triceps",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Développé décliné aux haltères",
+        "image":"Développé décliné aux haltères.webp",
+        "desc":"Exercice pour pectoraux (partie basse), deltoïdes antérieurs et triceps",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Pompes",
+        "image":"Pompes.webp",
+        "desc":"Exercice pour pectoraux, triceps, deltoïdes et biceps",
+        "groupe":"Pecs"
+    },
+    {
+        "nom": "Rowing à un Biceps avec haltères",
+        "image":"Rowing à un Biceps avec haltères.webp",
+        "desc":"Exercice pour dos, deltoïdes postérieurs et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tirage vertical à la barre",
+        "image":"Tirage vertical à la barre.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Rowing assis à la poulie",
+        "image":"Rowing assis à la poulie.webp",
+        "desc":"Exercice pour dos, deltoïdes postérieurs et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tirage vertical prise serrée",
+        "image":"Tirage vertical prise serrée.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Rowing à la barre",
+        "image":"Rowing à la barre.webp",
+        "desc":"Exercice pour dos, deltoïdes postérieurs et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tirage nuque",
+        "image":"Tirage nuque.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tirage vertical prise inversée",
+        "image":"Tirage vertical prise inversée.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tirage Biceps tendu à la corde",
+        "image":"Tirage Biceps tendu à la corde.webp",
+        "desc":"Exercice pour dos et triceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Rowing à la T-bar",
+        "image":"Rowing à la T-bar.webp",
+        "desc":"Exercice pour dos, deltoïdes postérieurs et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Rowing à la barre, mains en supination",
+        "image":"Rowing à la barre, mains en supination.webp",
+        "desc":"Exercice pour dos et deltoïdes postérieurs",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tractions à la barre fixe",
+        "image":"Tractions à la barre fixe.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tractions derrière la tête à la barre fixe",
+        "image":"Tractions derrière la tête à la barre fixe.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tractions à la barre fixe, mains en supination",
+        "image":"Tractions à la barre fixe, mains en supination.webp",
+        "desc":"Exercice pour dos et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Tirage Biceps tendus à la poulie haute avec barre",
+        "image":"Tirage Biceps tendus à la poulie haute avec barre.webp",
+        "desc":"Exercice pour dos et triceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Rowing debout avec haltères",
+        "image":"Rowing debout avec haltères.webp",
+        "desc":"Exercice pour dos, deltoïdes postérieurs et biceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Pull-over avec haltère",
+        "image":"Pull-over avec haltère.webp",
+        "desc":"Exercice pour dos, pectoraux et triceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Pull-over à la barre",
+        "image":"Pull-over à la barre.webp",
+        "desc":"Exercice pour dos, pectoraux et triceps",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Soulevé de terre à la barre",
+        "image":"Soulevé de terre à la barre.webp",
+        "desc":"Exercice principalement pour dos et cuisses",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Soulevé de terre style sumo",
+        "image":"Soulevé de terre style sumo.webp",
+        "desc":"Exercice principalement pour dos et cuisses",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Soulevé de terre à la trap barre",
+        "image":"Soulevé de terre à la trap barre.webp",
+        "desc":"Exercice principalement pour dos et cuisses",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Soulevé de terre avec haltères",
+        "image":"Soulevé de terre avec haltères.webp",
+        "desc":"Exercice principalement pour dos et cuisses",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Shrugs à la barre",
+        "image":"Shrugs à la barre.webp",
+        "desc":"Exercice pour dos",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Shrugs aux haltères",
+        "image":"Shrugs aux haltères.webp",
+        "desc":"Exercice pour muscles des trapèzes",
+        "groupe":"Dos"
+    },
+    {
+        "nom": "Développé assis avec haltères",
+        "image":"Développé assis avec haltères.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Elévations latérales avec haltères",
+        "image":"Elévations latérales avec haltères.webp",
+        "desc":"Exercice pour deltoïdes et muscles des trapèzes",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévations frontales avec haltères",
+        "image":"Élévations frontales avec haltères.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Écartés aux poulies hautes",
+        "image":"Écartés aux poulies hautes.webp",
+        "desc":"Exercice pour deltoïdes postérieurs et muscles des trapèzes",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Développé épaules à la Smith Machine",
+        "image":"Développé épaules à la Smith Machine.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Rowing épaules à la barre",
+        "image":"Rowing épaules à la barre.webp",
+        "desc":"Exercice pour deltoïdes, dos et biceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévation latérale buste en avant",
+        "image":"Élévation latérale buste en avant.webp",
+        "desc":"Exercice pour deltoïdes postérieurs et muscles des trapèzes",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévation latérale à un Biceps à la poulie",
+        "image":"Élévation latérale à un Biceps à la poulie.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Presse debout avec haltères",
+        "image":"Presse debout avec haltères.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Presse debout à la barre",
+        "image":"Presse debout à la barre.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévations frontales à un Biceps à la poulie",
+        "image":"Élévations frontales à un Biceps à la poulie.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévations frontales à la barre",
+        "image":"Élévations frontales à la barre.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Développé épaules assis à la barre",
+        "image":"Développé épaules assis à la barre.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Développé épaules assis barre nuque",
+        "image":"Développé épaules assis barre nuque.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Développé épaules debout à la barre",
+        "image":"Développé épaules debout à la barre.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Développé épaules debout barre nuque",
+        "image":"Développé épaules debout barre nuque.webp",
+        "desc":"Exercice pour deltoïdes et triceps",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévations frontales alternées en prise neutre avec haltères",
+        "image":"Élévations frontales alternées en prise neutre avec haltères.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévations frontales à un Biceps à la poulie prise neutre",
+        "image":"Élévations frontales à un Biceps à la poulie prise neutre.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Élévations frontales avec un haltère à deux mains",
+        "image":"Élévations frontales avec un haltère à deux mains.webp",
+        "desc":"Exercice pour deltoïdes antérieurs",
+        "groupe":"Epaules"
+    },
+    {
+        "nom": "Curl à la barre",
+        "image":"Curl à la barre.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl alterné debout avec haltères",
+        "image":"Curl alterné debout avec haltères.webp",
+        "desc":"Exercise for biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl poulie basse avec corde",
+        "image":"Curl poulie basse avec corde.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl à la barre EZ",
+        "image":"Curl à la barre EZ.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl au banc « Larry Scott » à la barre EZ",
+        "image":"Curl au banc « Larry Scott » à la barre EZ.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl alterné avec haltères en prise marteau",
+        "image":"Curl alterné avec haltères en prise marteau.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl alterné avec haltères au banc incliné",
+        "image":"Curl alterné avec haltères au banc incliné.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl concentré avec haltère",
+        "image":"Curl concentré avec haltère.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl à la poulie basse avec poignée",
+        "image":"Curl à la poulie basse avec poignée.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl à la poulie basse avec barre",
+        "image":"Curl à la poulie basse avec barre.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl aux poulies hautes vis-à-vis",
+        "image":"Curl aux poulies hautes vis-à-vis.webp",
+        "desc":"Exercice pour biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Extensions des poignets à la barre",
+        "image":"Extensions des poignets à la barre.webp",
+        "desc":"Exercice pour avant-Biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Flexions des poignets à la barre",
+        "image":"Flexions des poignets à la barre.webp",
+        "desc":"Exercice pour avant-Biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Curl à la barre, mains en pronation",
+        "image":"Curl à la barre, mains en pronation.webp",
+        "desc":"Exercice pour biceps et avant-Biceps",
+        "groupe":"Biceps"
+    },
+    {
+        "nom": "Extension couché à la barre EZ",
+        "image":"Extension couché à la barre EZ.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps à la poulie haute avec barre",
+        "image":"Triceps à la poulie haute avec barre.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps à la poulie haute avec corde",
+        "image":"Triceps à la poulie haute avec corde.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Extension des avant-bras assis avec un haltère",
+        "image":"Extension des avant-bras assis avec un haltère.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Développé couché prise serrée",
+        "image":"Développé couché prise serrée.webp",
+        "desc":"Exercice pour triceps, pectoraux et deltoïdes antérieurs",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Le Kickback",
+        "image":"Le Kickback.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "",
+        "image":".webp",
+        "desc":"",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps à la poulie haute avec barre, mains en supination",
+        "image":"Triceps à la poulie haute avec barre, mains en supination.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps à la poulie haute avec poignée, main en pronation",
+        "image":"Triceps à la poulie haute avec poignée, main en pronation.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps à la poulie haute avec poignée, main en supination",
+        "image":"Triceps à la poulie haute avec poignée, main en supination.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps couché aux haltères",
+        "image":"Triceps couché aux haltères.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Triceps assis à la barre",
+        "image":"Triceps assis à la barre.webp",
+        "desc":"Exercice pour triceps",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Dips entre deux bancs",
+        "image":"Dips entre deux bancs.webp",
+        "desc":"Exercice pour triceps et deltoïdes antérieurs",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Les Dips",
+        "image":"Les Dips.webp",
+        "desc":"Exercice pour triceps, deltoïdes antérieurs et bas des pectoraux",
+        "groupe":"Triceps"
+    },
+    {
+        "nom": "Le Crunch",
+        "image":"Le Crunch.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Crunch oblique",
+        "image":"Crunch oblique.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Crunch à la machine",
+        "image":"Crunch à la machine.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Crunch à la poulie haute avec corde",
+        "image":"Crunch à la poulie haute avec corde.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Planche",
+        "image":"Planche.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Relevé de jambes suspendu",
+        "image":"Relevé de jambes suspendu.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Crunch inversés genoux pliés",
+        "image":"Crunch inversés genoux pliés.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Crunch bras tendus",
+        "image":"Crunch bras tendus.webp",
+        "desc":"Exercice pour abdominaux",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Planche get ups",
+        "image":"Planche get ups.webp",
+        "desc":"Exercice pour abdominaux, deltoïdes antérieurs et triceps",
+        "groupe":"Abdos"
+    },
+    {
+        "nom": "Les Squats",
+        "image":"Les Squats.webp",
+        "desc":"Exercice pour cuisses et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Presse à cuisses",
+        "image":"Presse à cuisses.webp",
+        "desc":"Exercice pour cuisses et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Leg Extension",
+        "image":"Leg Extension.webp",
+        "desc":"Exercice pour quadriceps",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Fentes",
+        "image":"Fentes.webp",
+        "desc":"Exercice pour cuisses et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Leg curl couché",
+        "image":"Leg curl couché.webp",
+        "desc":"Exercice pour ischios et mollets",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Le Hack Squat",
+        "image":"Le Hack Squat.webp",
+        "desc":"Exercice pour cuisses et muscles fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Leg curl assis",
+        "image":"Leg curl assis.webp",
+        "desc":"Exercice pour ischios et mollets",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Leg extension à une jambe",
+        "image":"Leg extension à une jambe.webp",
+        "desc":"Exercice pour quadriceps",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat barre devant",
+        "image":"Squat barre devant.webp",
+        "desc":"Exercice pour cuisses et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Soulevé de terre roumain (jambes tendues) avec haltères",
+        "image":"Soulevé de terre roumain (jambes tendues) avec haltères.webp",
+        "desc":"Exercice pour ischios, fessiers et lombaires",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Soulevé de terre roumain (jambes tendues) à la barre",
+        "image":"Soulevé de terre roumain (jambes tendues) à la barre.webp",
+        "desc":"Exercice pour ischios, fessiers et lombaires",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat gobelet",
+        "image":"Squat gobelet.webp",
+        "desc":"Exercice pour quadriceps, fessiers et ischios",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Saut groupé",
+        "image":"Saut groupé.webp",
+        "desc":"Exercice pour ischios, quadriceps et abdominaux",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Les Burpees",
+        "image":"Les Burpees.webp",
+        "desc":"Exercice pour pectoraux, triceps, épaules, quadriceps, ischios, mollets, abdominaux et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat au poids du corps",
+        "image":"Squat au poids du corps.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets, muscles du tronc et deltoïdes antérieurs",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat et demi au poids du corps",
+        "image":"Squat et demi au poids du corps.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets, muscles du tronc et deltoïdes antérieurs",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat avec médecine-ball",
+        "image":"Squat avec médecine-ball.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets, muscles du tronc et deltoïdes antérieurs",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Split squat bulgare à la barre",
+        "image":"Split squat bulgare à la barre.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Split squat bulgare au poids du corps",
+        "image":"Split squat bulgare au poids du corps.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Air squat avec mini-bande élastique",
+        "image":"Air squat avec mini-bande élastique.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat sauté",
+        "image":"Squat sauté.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat ou chaise contre le mur",
+        "image":"Squat ou chaise contre le mur.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Soulevé de terre avec médecine-ball",
+        "image":"Soulevé de terre avec médecine-ball.webp",
+        "desc":"Exercice pour ischio-jambiers, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Soulevé de terre au poids du corps sur une jambe",
+        "image":"Soulevé de terre au poids du corps sur une jambe.webp",
+        "desc":"Exercice pour ischio-jambiers, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Soulevé de terre sumo avec Kettlebell",
+        "image":"Soulevé de terre sumo avec Kettlebell.webp",
+        "desc":"Exercice pour ischio-jambiers, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Good morning à la barre",
+        "image":"Good morning à la barre.webp",
+        "desc":"Exercice pour ischio-jambiers, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Petit pont au poids du corps",
+        "image":"Petit pont au poids du corps.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Petit pont sur une jambe",
+        "image":"Petit pont sur une jambe.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Petit pont avec bande élastique",
+        "image":"Petit pont avec bande élastique.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Marche du canard",
+        "image":"Marche du canard.webp",
+        "desc":"Exercice pour cuisses, fessiers et mollets",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Le Bird dog",
+        "image":"Le Bird dog.webp",
+        "desc":"Exercice pour muscles du tronc et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Les Groiners",
+        "image":"Les Groiners.webp",
+        "desc":"Exercice pour cuisses, muscles des hanches et du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Le Fire hydrants",
+        "image":"Le Fire hydrants.webp",
+        "desc":"Exercice pour fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Relevé de bassin à la Smith machine",
+        "image":"Relevé de bassin à la Smith machine.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Relevé de bassin à la barre",
+        "image":"Relevé de bassin à la barre.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Abduction des hanches en position assise avec bande élastique",
+        "image":"Abduction des hanches en position assise avec bande élastique.webp",
+        "desc":"Exercice pour fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Abduction des hanches à la machine assis",
+        "image":"Abduction des hanches à la machine assis.webp",
+        "desc":"Exercice pour abducteurs et fessiers",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Abduction de la hanche debout à la poulie",
+        "image":"Abduction de la hanche debout à la poulie.webp",
+        "desc":"Exercice pour fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Frog pump au poids du corps",
+        "image":"Frog pump au poids du corps.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Frog pump à la Smith machine",
+        "image":"Frog pump à la Smith machine.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Rotation externe de la hanche avec bande élastique",
+        "image":"Rotation externe de la hanche avec bande élastique.webp",
+        "desc":"Exercice pour fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Élévation des jambes couché sur le côté",
+        "image":"Élévation des jambes couché sur le côté.webp",
+        "desc":"Exercice pour fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Machine Glute Ham Raise (GHR) ou Glute Ham Development (GHD)",
+        "image":"Machine Glute Ham Raise (GHR) ou Glute Ham Development (GHD).webp",
+        "desc":"Exercice pour fessiers, arrière-cuisses et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Montée sur stepper avec haltères",
+        "image":"Montée sur stepper avec haltères.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Marche latérale avec mini-bande élastique",
+        "image":"Marche latérale avec mini-bande élastique.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Élévation des genoux debout",
+        "image":"Élévation des genoux debout.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Swings avec Kettlebell",
+        "image":"Swings avec Kettlebell.webp",
+        "desc":"Exercice pour cuisses, fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Kickback à la poulie",
+        "image":"Kickback à la poulie.webp",
+        "desc":"Exercice pour cuisses, fessiers, mollets et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Les Donkey Kicks",
+        "image":"Les Donkey Kicks.webp",
+        "desc":"Exercice pour fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Élévation des hanches couché sur le côté",
+        "image":"Élévation des hanches couché sur le côté.webp",
+        "desc":"Exercice pour fessiers et muscles du tronc",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Squat et reach",
+        "image":"Squat et reach.webp",
+        "desc":"Exercice pour muscles de la hanche, des cuisses, pectoraux, muscles du tronc et haut du dos",
+        "groupe":"Jambes"
+    },
+    {
+        "nom": "Mollets assis à la machine",
+        "image":"Mollets assis à la machine.webp",
+        "desc":"Exercice pour mollets",
+        "groupe":"Mollets"
+    },
+    {
+        "nom": "Mollets debout à la machine",
+        "image":"Mollets debout à la machine.webp",
+        "desc":"Exercice pour mollets",
+        "groupe":"Mollets"
+    }
+]
